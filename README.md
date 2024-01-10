@@ -1,5 +1,7 @@
 # Case_compras_databricks
-Relatório mostra dados de compras em 2016, relatório foi programado em SQL.
+Relatório mostra dados de compras em 2016.
+
+Dashboard feito no Databricks com progra,ação em SQL.
 
 1 - Como você classifica a saúde do negócio Hotmart a partir dos dados extraídos?
 
