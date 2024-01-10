@@ -27,4 +27,4 @@ Destacar promoção de produtos: Destacar produtos das categorias “Phisical bo
 Reavaliação das estratégias de quarta e quinta-feira: Pela baixa de atividade de compra nesses dias, avaliar a eficácia das campanhas nesses períodos, pode ser útil redistribuir o orçamento ou ajustar as estratégias para esses dias específicos;
 Monitoramento contínuo e ajustes: Estabelecer um sistema de monitoramento contínuo para ajustar as estratégias conforme necessário, é preciso ser flexível e estar pronto para adaptar as campanhas com base nas mudanças dos padrões de compra.
 
-Link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6605712877054562/3887903592859677/6665719610652/latest.html
+[CLIQUE AQUI PARA VER O DASHBOARD](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6605712877054562/3887903592859677/6665719610652/latest.html)
